@@ -1,12 +1,17 @@
 ## What is SQL?
 <p>
-    - SQL stands for Structured Query Language
-    - SQL used CRUD operations to communicate with DB.
-        1. CREATE - execute INSERT statements to insert new tuple into the relation.
-        2. READ - Read data already in the relations.
-        3. UPDATE - Modify already inserted data in the relation.
-        4. DELETE - Delete specific data point/tuple/row or multiple rows.
-    - ** SQL is not DB, is a query language. **
+    <ul>
+        <li> SQL stands for Structured Query Language </li>
+        <li>SQL used CRUD operations to communicate with DB.
+            <ol>
+                <li>CREATE - execute INSERT statements to insert new tuple into the relation.</li>
+                <li>READ - Read data already in the relations.</li>
+                <li>UPDATE - Modify already inserted data in the relation.</li>
+                <li>DELETE - Delete specific data point/tuple/row or multiple rows.</li>
+            </ol>
+        </li>
+        <li><B> SQL is not DB, is a query language. </B></li>
+    </ul>
 </p>
 
 ## what is Relational Database
