@@ -19,6 +19,7 @@ CREATE TABLE dbTable(
     attribute_name attribute_type
 );
 ```
+
 ```
 CREATE TABLE student(
     id int PRIMARY_KEY,
@@ -38,3 +39,5 @@ INSERT INTO student
 SELECT * from student ;
 
 ```
+
+>NOTE: We can also use sql queries via CLI (Command Line Interface), it will work the same and all queries remains the same as while using MYSQL workbench
